@@ -1,0 +1,66 @@
+/* Responsive for Mobile-s */
+@media (max-width : 320px){
+    .container{
+        max-width: 470px;
+        height: auto;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .firstName{
+        margin-right: 40px;
+        margin-bottom: 20px;
+    }
+    .fatherName{
+        width: 295px;
+        margin-right: 40px;
+    }
+    #date{
+        margin-top: 20px;
+    }
+    #sscgpa{
+        margin-right: 80px;
+    }
+    #hscgpa{
+        margin-right: 80px;
+    }
+    #graduatecgpa{
+        margin-right: 55px;
+    }
+    #postGraduatecgpa{
+        margin-right: 55px;
+    }
+    .title3 h3{
+        margin-top: 20px;
+    }
+    .presentAddressDesing{
+        width: 134px;
+        margin-right: 10px;
+    }
+    .permanentAddressDesing{
+        width: 134px;
+        margin-right: 10px;
+    }
+    .contactInfo{
+        width: 245px;
+        margin-right: 70px;
+        margin-bottom: 20px;
+    }
+    .experiencePart{
+        width: 235px;
+    }
+    #specialSkills{
+        width: 325px;
+        height: 100px;
+    }
+    .footer{
+        margin-top: 50px;
+    }
+    .footer label{
+        margin-right: 37%;
+    }
+}
+@media only screen and (max-width : 375px){
+.container{
+    width: 650px;
+}
+}
